@@ -15,7 +15,7 @@ Where <img src="https://latex.codecogs.com/gif.latex? A_0 " /> is the pulse ampl
 
 If we take the real part, we get the following graph:
 
-(imagem 1)
+![](images/filename chirp.png)
 
 ## Frequency Domain Analysis
 
